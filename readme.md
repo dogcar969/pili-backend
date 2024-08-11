@@ -2,6 +2,10 @@
 
 这是**基于自然语言处理的影视播放平台的设计与实现**的后端部分
 
+[前端部分](https://github.com/dogcar969/pili-frontend)
+
+[后台部分](https://github.com/dogcar969/pili-backstage)
+
 ## 技术栈
 
 Django
