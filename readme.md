@@ -4,8 +4,6 @@
 
 [前端部分](https://github.com/dogcar969/pili-frontend)
 
-[后台部分](https://github.com/dogcar969/pili-backstage)
-
 ## 技术栈
 
 Django
